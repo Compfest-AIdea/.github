@@ -13,9 +13,8 @@ Penyakit rambut dan kulit kepala seringkali luput dari perhatian. Pasien terkada
 ## Features
 - Deteksi penyakit kulit kepala berdasarkan gambar
 - Deteksi potensi kerontokan rambut berdasarkan data kondisi
-- Artkel kesehatan
-- Pendataan pasien
-- Pendataan riwayat pemeriksaan 
+- Riwayat pemeriksaan keseluruhan dan terbaru
+- Konten informatif berupa artikel dan FAQ
 
 ## Technology 
 
@@ -32,7 +31,7 @@ Repositori Machine Learning selengkapnya dapat dilihat pada [ML repository](http
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"  height="40"/> </a> 
 
 Repositori Mobile Application selengkapnya dapat dilihat pada [Mobile repository](https://github.com/Compfest-AIdea/mobile-application)
-  
+
 ## AIdea Team Members
 | Member | GitHub |
 |--------|--------|
